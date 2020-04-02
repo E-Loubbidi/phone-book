@@ -1,7 +1,7 @@
 # phone-book
 ## phone book with Android/JAVA
 
-### Extract the winrar and run the project with Andrid Studio IDE.
+### Extract the winrar and run the project with Android Studio IDE.
 
 ![img1](image1.jpeg)
 
